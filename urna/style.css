@@ -141,3 +141,16 @@ padding-left: 10px;
     margin-top: 40px;
 text-align: center;
 }
+.aviso--branco{
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.aviso--gigante{
+    font-size: 70px;
+    font-weight: bold;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
