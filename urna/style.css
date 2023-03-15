@@ -154,3 +154,29 @@ text-align: center;
     justify-content: center;
     align-items: center;
 }
+
+
+
+
+/*Responsividade*/
+
+@media (max-width:850px){
+.urna{
+    display: flex;
+    flex-direction: column;
+}
+.tela{
+    margin-left: 30px;
+}
+}
+
+@media (max-width: 600px){
+  
+    .urna{
+      width: 400px;
+      margin-right: 30px;
+    }
+    .tela{
+        width: 350px;
+    }
+}
