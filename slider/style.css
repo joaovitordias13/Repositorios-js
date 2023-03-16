@@ -1,0 +1,46 @@
+*{
+    box-sizing:border-box ;
+}
+body{
+    margin: 0;
+}
+header{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.header{
+    height: 30px;
+    background-color: red;
+}
+.slider{
+    flex: 1;
+    overflow: hidden;
+}
+.slider--width{
+transition: all ease 0.3s;    
+height: 100%;
+display: flex;
+}
+.slider--item{
+    width: 100vw;
+    height: inherit;
+    background-position: center;
+    background-size: cover;
+}
+.slider--controls{
+    position: absolute;
+    z-index: 99;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.slider-control{
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+    background-color: white;
+    cursor: pointer;
+}
