@@ -4,4 +4,4 @@ Urna eletrônica,
 SlideShow,
 Validador de formularios.
 
-Sendo  que em todos eles foram usados CSS,HTMl e Java Script
+Aonde nesse projetos estão o uso de HTML,CSS e Java Script.
