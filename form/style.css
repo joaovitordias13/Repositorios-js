@@ -35,3 +35,10 @@ input{
     width: 100%;
     outline: 0;
 }
+.error{
+    font-size: 11px;
+    color: white;
+    background-color: red;
+    padding: 4px;
+    border-radius: 5px;
+}
