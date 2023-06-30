@@ -31,8 +31,3 @@ Este é um projeto desenvolvido durante o módulo de Java script do curso oferec
 ## Urna Eletrônica
 <img src="midia.readme/Urna.png" alt="">
 
-
-<<<<<<< HEAD
-=======
-Aonde nesse projetos estão o uso de HTML,CSS e Java Script.
->>>>>>> 58cf9b1793efa910c4173e92db82919622d70b3e
