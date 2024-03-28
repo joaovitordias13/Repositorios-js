@@ -1,5 +1,5 @@
 # 💻  Sobre o Projeto:
-Este é um projeto desenvolvido durante o módulo de Java script do curso oferecido pela B7web, com o objetivo de evoluir a construção individual do aluno. Foram desenvolvidos 3 Projetos sendo eles uma Urna Eletrônica, um Slideshow e um Validador de Formulários,e nas páginas foram utilizandas apenas as tecnologias HTML5,CSS3 e Java Script.
+Este é um projeto desenvolvido durante o módulo de Java script do curso oferecido pela B7web, com o objetivo de evoluir a construção individual do aluno. Foram desenvolvidos 3 Projetos sendo eles uma Urna Eletrônica, um Slideshow e um Validador de Formulários,e nas páginas foram utilizadas apenas as tecnologias HTML5,CSS3 e Java Script.
 </br>
 # 🛠 Tecnologias utilizadas:
 <div>
