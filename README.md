@@ -16,7 +16,7 @@ Este é um projeto desenvolvido durante o módulo de Java script do curso oferec
 
 ## Urna Eletrônica:
 
-<li>O usuário pode fazer uma votação na urna para Vereadores(77222 ou 38111) e para prefeitos(99 ou 84). Além disso, pode ser feito votos em branco ou votar nulo </li>
+<li>O usuário pode fazer uma votação na urna para Vereadores (77222 ou 38111) e para prefeitos (99 ou 84). Além disso, pode ser feito votos em branco ou votar nulo </li>
 
 ## Slideshow:
 <li>O usuário tem acesso a um slideshow com 3 imagens ,que de forma automática ou manual mudam entre elas em sequênciada</li>
